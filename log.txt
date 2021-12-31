@@ -200,3 +200,467 @@ f2c7fd8c-ce9a-44b2-a506-1a08c86fcd95: 2021-12-14 21:16:33 >Directory [ineuron/tr
 6c5e6f80-f0f8-400d-8581-a6d7f73436dd: 2021-12-14 21:28:38 >Entered the save_model method of the File_Operation class
 6c5e6f80-f0f8-400d-8581-a6d7f73436dd: 2021-12-14 21:28:44 >Model File XG_BOOST2saved. Exited the save_model method of the Model_Finder class
 6c5e6f80-f0f8-400d-8581-a6d7f73436dd: 2021-12-14 21:28:44 >Successful End of Training
+cbb12e61-5b6d-4cd3-8d89-0054e597479b: 2021-12-28 16:04:18 >Archiving of existing model begin
+cbb12e61-5b6d-4cd3-8d89-0054e597479b: 2021-12-28 16:04:19 >Source ineuron/training/data/project/Water Wafer/model directory is not found 
+cbb12e61-5b6d-4cd3-8d89-0054e597479b: 2021-12-28 16:04:21 >Start of Validation on files!!
+cbb12e61-5b6d-4cd3-8d89-0054e597479b: 2021-12-28 16:04:21 >LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+cbb12e61-5b6d-4cd3-8d89-0054e597479b: 2021-12-28 16:04:21 >Removing bad raw directory
+cbb12e61-5b6d-4cd3-8d89-0054e597479b: 2021-12-28 16:04:22 >ineuron/training/data/project/Water Wafer/bad_raw_data_files directory deleted successfully
+cbb12e61-5b6d-4cd3-8d89-0054e597479b: 2021-12-28 16:04:22 >Removing good raw directory
+cbb12e61-5b6d-4cd3-8d89-0054e597479b: 2021-12-28 16:04:23 >ineuron/training/data/project/Water Wafer/good_raw_data_files directory deleted successfully
+cbb12e61-5b6d-4cd3-8d89-0054e597479b: 2021-12-28 16:04:23 >Good raw and bad raw directory creation begin..
+cbb12e61-5b6d-4cd3-8d89-0054e597479b: 2021-12-28 16:04:30 >ineuron/training/data/project/Water Wafer/good_raw_data_files and ineuron/training/data/project/Water Wafer/bad_raw_data_files directory created successfully
+cbb12e61-5b6d-4cd3-8d89-0054e597479b: 2021-12-28 16:04:31 >Directory [ineuron/training/data/project/Water Wafer/training_batch_files/] does not exist
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:20:20 >Archiving of existing model begin
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:20:21 >Source ineuron/training/data/project/Water Wafer/model directory is not found 
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:20:23 >Start of Validation on files!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:20:23 >LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:20:23 >Removing bad raw directory
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:20:24 >ineuron/training/data/project/Water Wafer/bad_raw_data_files directory deleted successfully
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:20:24 >Removing good raw directory
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:20:25 >ineuron/training/data/project/Water Wafer/good_raw_data_files directory deleted successfully
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:20:25 >Good raw and bad raw directory creation begin..
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:20:34 >ineuron/training/data/project/Water Wafer/good_raw_data_files and ineuron/training/data/project/Water Wafer/bad_raw_data_files directory created successfully
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:20:37 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer12_20012.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:20:40 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_07012020_000000.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:20:42 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_07012020_223345.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:20:44 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_08012020_120000.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:20:45 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_10012020_131534.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:20:47 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_11012020_151432.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:20:50 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_12012020_111.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:20:57 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_12012020_111213.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:20:59 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_13012020_141000.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:01 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_14012020_113045.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:03 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_15010_130532.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:05 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_15012020_130532.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:07 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_18012020_121532.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:09 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_19012020_141432.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:11 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_20012020_135132.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:13 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_21012020_143634.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:16 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_22012020_173245.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:18 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_23012020_163456.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:20 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_24012020_150121.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:23 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_25012020_142112.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:25 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_fault_detection.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:27 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_text_130532.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:29 >Invalid File Name!! File moved to Bad Raw Folder :: Waferdefault_15010_130532.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:31 >Valid File name!! File moved to GoodRaw Folder :: wafer_07012020_041011.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:33 >Valid File name!! File moved to GoodRaw Folder :: wafer_13012020_090817.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:35 >Valid File name!! File moved to GoodRaw Folder :: wafer_16012020_051629.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:38 >Valid File name!! File moved to GoodRaw Folder :: wafer_16012020_134553.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:39 >Valid File name!! File moved to GoodRaw Folder :: wafer_17012020_125434.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:41 >Valid File name!! File moved to GoodRaw Folder :: wafer_20012020_090819.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:44 >Valid File name!! File moved to GoodRaw Folder :: wafer_20022020_090716.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:46 >Valid File name!! File moved to GoodRaw Folder :: wafer_21012020_080913.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:48 >Valid File name!! File moved to GoodRaw Folder :: wafer_22022020_041119.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:50 >Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_011008.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:53 >Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_041211.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:55 >Valid File name!! File moved to GoodRaw Folder :: wafer_27012020_080911.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:56 >Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_051011.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:21:58 >Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_090817.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:22:00 >Valid File name!! File moved to GoodRaw Folder :: wafer_28042020_031911.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:22:03 >Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_050617.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:22:05 >Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_060756.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:22:07 >Valid File name!! File moved to GoodRaw Folder :: wafer_31012020_090811.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:22:07 >Column Length Validation Started!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:22:16 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:22:21 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:22:34 >Column Length Validation Completed!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:22:34 >Missing Values Validation Started!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:22:39 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_07012020_041011.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:23:42 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_20012020_090819.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:24:11 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_22022020_041119.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:24:15 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_23012020_011008.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:25:08 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_28012020_051011.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:26:15 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_29012020_060756.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:26:19 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_31012020_090811.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:26:19 >Raw Data Validation Complete!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:26:19 >Starting Data Transforamtion!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:26:28 > wafer_13012020_090817.csv: File Transformed successfully!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:26:33 > wafer_16012020_051629.csv: File Transformed successfully!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:26:37 > wafer_20022020_090716.csv: File Transformed successfully!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:26:42 > wafer_21012020_080913.csv: File Transformed successfully!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:26:48 > wafer_23012020_041211.csv: File Transformed successfully!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:26:53 > wafer_27012020_080911.csv: File Transformed successfully!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:26:58 > wafer_28012020_090817.csv: File Transformed successfully!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:04 > wafer_28042020_031911.csv: File Transformed successfully!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:09 > wafer_29012020_050617.csv: File Transformed successfully!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:09 >DataTransformation Completed!!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:09 >Creating Training_Database and tables on the basis of given schema!!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:09 >Table creation Completed!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:09 >Insertion of Data into Table started!!!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:09 >Creating database and collection if not exist then create and insert record
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:10 >Droping existing collection if present in database training_system_log
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:10 >Starting loading of good files in database:training_database and collection: Good_Raw_Data
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:12 >9 files found in ineuron/training/data/project/Water Wafer/good_raw_data_files 
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:12 >Insertion of file wafer_13012020_090817.csv started...
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:14 >File: wafer_13012020_090817.csv loaded successfully
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:14 >Insertion of file wafer_16012020_051629.csv started...
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:15 >File: wafer_16012020_051629.csv loaded successfully
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:15 >Insertion of file wafer_20022020_090716.csv started...
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:16 >File: wafer_20022020_090716.csv loaded successfully
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:16 >Insertion of file wafer_21012020_080913.csv started...
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:17 >File: wafer_21012020_080913.csv loaded successfully
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:17 >Insertion of file wafer_23012020_041211.csv started...
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:18 >File: wafer_23012020_041211.csv loaded successfully
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:18 >Insertion of file wafer_27012020_080911.csv started...
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:19 >File: wafer_27012020_080911.csv loaded successfully
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:19 >Insertion of file wafer_28012020_090817.csv started...
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:21 >File: wafer_28012020_090817.csv loaded successfully
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:21 >Insertion of file wafer_28042020_031911.csv started...
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:22 >File: wafer_28042020_031911.csv loaded successfully
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:22 >Insertion of file wafer_29012020_050617.csv started...
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:23 >File: wafer_29012020_050617.csv loaded successfully
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:23 >Insertion in Table completed!!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:23 >Deleting Good Data Folder!!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:23 >Removing good raw directory
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:27 >ineuron/training/data/project/Water Wafer/good_raw_data_files directory deleted successfully
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:27 >Good_Data folder deleted!!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:27 >Moving bad files to Archive and deleting Bad_Data folder!!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:27:27 >Archiving of bad training file begin.
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:29:34 >Bad files moved to archive
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:29:36 >Bad Raw Data Folder Deleted successfully!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:29:36 >Archiving of bad training file done.
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:29:36 >Bad files moved to archive!! Bad folder Deleted!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:29:36 >Validation Operation completed!!
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:29:36 >Extracting csv file from table
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:29:36 >starting of loading of database:training_database,collection:Good_Raw_Data records into InputFile.csv
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:29:36 >Good_Raw_data has been loaded into pandas dataframe
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:08 >InputFile.csv created successfully in directoryineuron/training/data/project/Water Wafer/training_file_from_db
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:09 >Start of Training
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:09 >Entered the get_data method of the Data_Getter class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:14 >Data Load Successful.Exited the get_data method of the Data_Getter class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:14 >Entered the remove_columns method of the Preprocessor class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:14 >Column removal Successful.Exited the remove_columns method of the Preprocessor class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:15 >Entered the separate_label_feature method of the Preprocessor class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:15 >Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:15 >Entered the is_null_present method of the Preprocessor class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:20 >Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:20 >Entered the impute_missing_values method of the Preprocessor class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:23 >Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:23 >Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:25 >Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:25 >Entered the remove_columns method of the Preprocessor class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:25 >Column removal Successful.Exited the remove_columns method of the Preprocessor class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:25 >Entered the elbow_plot method of the KMeansClustering class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:40 >The optimum number of clusters is: 3. Exited the elbow_plot method of the KMeansClustering class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:40 >Entered the create_clusters method of the KMeansClustering class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:41 >Entered the save_model method of the File_Operation class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:48 >Model File KMeanssaved. Exited the save_model method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:48 >successfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:48 >Entered the get_best_model method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:30:48 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:31:19 >XGBoost best params: {'learning_rate': 0.5, 'max_depth': 20, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:31:19 >AUC for XGBoost:0.5
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:31:21 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:31:21 >Naive Bayes best params: {'var_smoothing': 0.5}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:31:21 >AUC for naive bayes score:0.5
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:31:23 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:31:38 >Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:31:38 >AUC for Random Forest0.5
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:31:40 >Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:12 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:13 >AUC for KNN0.5
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:14 >Entered the get_best_params_for_svm method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:18 >SVM best params: {'C': 0.1, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:18 >AUC for svc0.5
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:21 >Entered the save_model method of the File_Operation class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:28 >Model File XG_BOOST0saved. Exited the save_model method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:28 >Entered the get_best_model method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:28 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:34 >XGBoost best params: {'learning_rate': 0.5, 'max_depth': 20, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:34 >Accuracy for XGBoost:1.0
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:34 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:35 >Naive Bayes best params: {'var_smoothing': 0.1}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:35 >Accuracy for naive bayes score1.0
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:35 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:45 >Random Forest best params: {'criterion': 'gini', 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:45 >Accuracy for Random Forest1.0
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:45 >Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:53 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:53 >Accuracy for KNN clf1.0
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:32:55 >Entered the save_model method of the File_Operation class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:02 >Model File XG_BOOST1saved. Exited the save_model method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:02 >Entered the get_best_model method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:02 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:14 >XGBoost best params: {'learning_rate': 0.5, 'max_depth': 20, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:14 >AUC for XGBoost:0.5
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:15 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:16 >Naive Bayes best params: {'var_smoothing': 0.5}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:16 >AUC for naive bayes score:0.5
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:17 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:28 >Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:28 >AUC for Random Forest0.5
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:30 >Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:40 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:41 >AUC for KNN0.5
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:42 >Entered the get_best_params_for_svm method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:43 >SVM best params: {'C': 0.1, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:43 >AUC for svc0.5
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:47 >Entered the save_model method of the File_Operation class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:53 >Model File XG_BOOST2saved. Exited the save_model method of the Model_Finder class
+98c91897-4db9-4c94-a96c-83e9d8a0e4bd: 2021-12-28 16:33:53 >Successful End of Training
+8413e384-7787-4e9c-89de-208cb013f275: 2021-12-29 11:19:54 >Archiving of existing model begin
+8413e384-7787-4e9c-89de-208cb013f275: 2021-12-29 11:19:57 >Source ineuron/training/data/project/Wafer Fault Detection/model directory is not found 
+8413e384-7787-4e9c-89de-208cb013f275: 2021-12-29 11:20:03 >Start of Validation on files!!
+8413e384-7787-4e9c-89de-208cb013f275: 2021-12-29 11:20:05 >LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+8413e384-7787-4e9c-89de-208cb013f275: 2021-12-29 11:20:07 >Removing bad raw directory
+8413e384-7787-4e9c-89de-208cb013f275: 2021-12-29 11:20:09 >ineuron/training/data/project/Wafer Fault Detection/bad_raw_data_files directory deleted successfully
+8413e384-7787-4e9c-89de-208cb013f275: 2021-12-29 11:20:10 >Removing good raw directory
+8413e384-7787-4e9c-89de-208cb013f275: 2021-12-29 11:20:12 >ineuron/training/data/project/Wafer Fault Detection/good_raw_data_files directory deleted successfully
+8413e384-7787-4e9c-89de-208cb013f275: 2021-12-29 11:20:13 >Good raw and bad raw directory creation begin..
+8413e384-7787-4e9c-89de-208cb013f275: 2021-12-29 11:20:27 >ineuron/training/data/project/Wafer Fault Detection/good_raw_data_files and ineuron/training/data/project/Wafer Fault Detection/bad_raw_data_files directory created successfully
+8413e384-7787-4e9c-89de-208cb013f275: 2021-12-29 11:20:29 >Directory [ineuron/training/data/project/Wafer Fault Detection/training_batch_files/] does not exist
+8148c34d-e814-4a30-9d07-45297dc376c8: 2021-12-29 11:26:06 >Archiving of existing model begin
+8148c34d-e814-4a30-9d07-45297dc376c8: 2021-12-29 11:26:09 >Source ineuron/training/data/project/Wafer Fault Detection/model directory is not found 
+8148c34d-e814-4a30-9d07-45297dc376c8: 2021-12-29 11:26:14 >Start of Validation on files!!
+8148c34d-e814-4a30-9d07-45297dc376c8: 2021-12-29 11:26:16 >LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+8148c34d-e814-4a30-9d07-45297dc376c8: 2021-12-29 11:26:17 >Removing bad raw directory
+8148c34d-e814-4a30-9d07-45297dc376c8: 2021-12-29 11:26:20 >ineuron/training/data/project/Wafer Fault Detection/bad_raw_data_files directory deleted successfully
+8148c34d-e814-4a30-9d07-45297dc376c8: 2021-12-29 11:26:21 >Removing good raw directory
+8148c34d-e814-4a30-9d07-45297dc376c8: 2021-12-29 11:26:23 >ineuron/training/data/project/Wafer Fault Detection/good_raw_data_files directory deleted successfully
+8148c34d-e814-4a30-9d07-45297dc376c8: 2021-12-29 11:26:24 >Good raw and bad raw directory creation begin..
+8148c34d-e814-4a30-9d07-45297dc376c8: 2021-12-29 11:26:36 >ineuron/training/data/project/Wafer Fault Detection/good_raw_data_files and ineuron/training/data/project/Wafer Fault Detection/bad_raw_data_files directory created successfully
+8148c34d-e814-4a30-9d07-45297dc376c8: 2021-12-29 11:26:38 >Directory [ineuron/training/data/project/Wafer Fault Detection/training_batch_files/] does not exist
+cf0ef66c-da02-480d-8ca1-851af623490d: 2021-12-30 14:52:15 >Archiving of existing model begin
+cf0ef66c-da02-480d-8ca1-851af623490d: 2021-12-30 14:52:28 >Source ineuron/training/data/project/water_wafer/model directory is not found 
+cf0ef66c-da02-480d-8ca1-851af623490d: 2021-12-30 14:52:51 >Start of Validation on files!!
+cf0ef66c-da02-480d-8ca1-851af623490d: 2021-12-30 14:53:00 >LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+cf0ef66c-da02-480d-8ca1-851af623490d: 2021-12-30 14:53:09 >Removing bad raw directory
+cf0ef66c-da02-480d-8ca1-851af623490d: 2021-12-30 14:53:18 >ineuron/training/data/project/water_wafer/bad_raw_data_files directory deleted successfully
+cf0ef66c-da02-480d-8ca1-851af623490d: 2021-12-30 14:53:24 >Removing good raw directory
+cf0ef66c-da02-480d-8ca1-851af623490d: 2021-12-30 14:53:34 >ineuron/training/data/project/water_wafer/good_raw_data_files directory deleted successfully
+cf0ef66c-da02-480d-8ca1-851af623490d: 2021-12-30 14:53:39 >Good raw and bad raw directory creation begin..
+cf0ef66c-da02-480d-8ca1-851af623490d: 2021-12-30 14:54:02 >ineuron/training/data/project/water_wafer/good_raw_data_files and ineuron/training/data/project/water_wafer/bad_raw_data_files directory created successfully
+cf0ef66c-da02-480d-8ca1-851af623490d: 2021-12-30 14:54:08 >Directory [ineuron/training/data/project/water_wafer/training_batch_files/] does not exist
+09274a57-9c61-4391-8377-1c80f916ef39: 2021-12-30 15:01:30 >Archiving of existing model begin
+09274a57-9c61-4391-8377-1c80f916ef39: 2021-12-30 15:01:43 >Source ineuron/training/data/project/water_wafer/model directory is not found 
+c3ffead3-8beb-4c2c-b29e-b4cd6c289d6a: 2021-12-30 15:01:44 >Archiving of existing model begin
+c3ffead3-8beb-4c2c-b29e-b4cd6c289d6a: 2021-12-30 15:01:56 >Source ineuron/training/data/project/water_wafer/model directory is not found 
+09274a57-9c61-4391-8377-1c80f916ef39: 2021-12-30 15:02:08 >Start of Validation on files!!
+09274a57-9c61-4391-8377-1c80f916ef39: 2021-12-30 15:02:17 >LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+c3ffead3-8beb-4c2c-b29e-b4cd6c289d6a: 2021-12-30 15:02:20 >Start of Validation on files!!
+09274a57-9c61-4391-8377-1c80f916ef39: 2021-12-30 15:02:26 >Removing bad raw directory
+c3ffead3-8beb-4c2c-b29e-b4cd6c289d6a: 2021-12-30 15:02:29 >LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+09274a57-9c61-4391-8377-1c80f916ef39: 2021-12-30 15:02:36 >ineuron/training/data/project/water_wafer/bad_raw_data_files directory deleted successfully
+c3ffead3-8beb-4c2c-b29e-b4cd6c289d6a: 2021-12-30 15:02:38 >Removing bad raw directory
+09274a57-9c61-4391-8377-1c80f916ef39: 2021-12-30 15:02:41 >Removing good raw directory
+c3ffead3-8beb-4c2c-b29e-b4cd6c289d6a: 2021-12-30 15:02:47 >ineuron/training/data/project/water_wafer/bad_raw_data_files directory deleted successfully
+09274a57-9c61-4391-8377-1c80f916ef39: 2021-12-30 15:02:51 >ineuron/training/data/project/water_wafer/good_raw_data_files directory deleted successfully
+c3ffead3-8beb-4c2c-b29e-b4cd6c289d6a: 2021-12-30 15:02:55 >Removing good raw directory
+09274a57-9c61-4391-8377-1c80f916ef39: 2021-12-30 15:02:57 >Good raw and bad raw directory creation begin..
+c3ffead3-8beb-4c2c-b29e-b4cd6c289d6a: 2021-12-30 15:03:04 >ineuron/training/data/project/water_wafer/good_raw_data_files directory deleted successfully
+c3ffead3-8beb-4c2c-b29e-b4cd6c289d6a: 2021-12-30 15:03:10 >Good raw and bad raw directory creation begin..
+09274a57-9c61-4391-8377-1c80f916ef39: 2021-12-30 15:03:19 >ineuron/training/data/project/water_wafer/good_raw_data_files and ineuron/training/data/project/water_wafer/bad_raw_data_files directory created successfully
+09274a57-9c61-4391-8377-1c80f916ef39: 2021-12-30 15:03:26 >Directory [ineuron/training/data/project/water_wafer/training_batch_files/] is not present
+c3ffead3-8beb-4c2c-b29e-b4cd6c289d6a: 2021-12-30 15:03:34 >ineuron/training/data/project/water_wafer/good_raw_data_files and ineuron/training/data/project/water_wafer/bad_raw_data_files directory created successfully
+c3ffead3-8beb-4c2c-b29e-b4cd6c289d6a: 2021-12-30 15:03:40 >Directory [ineuron/training/data/project/water_wafer/training_batch_files/] is not present
+824e8a9b-9eb4-4174-9900-d6eb094d4e9c: 2021-12-30 16:34:17 >Archiving of existing model begin
+824e8a9b-9eb4-4174-9900-d6eb094d4e9c: 2021-12-30 16:34:32 >Source ineuron/training/data/project/mywafer/model directory is not found 
+824e8a9b-9eb4-4174-9900-d6eb094d4e9c: 2021-12-30 16:34:57 >Start of Validation on files!!
+824e8a9b-9eb4-4174-9900-d6eb094d4e9c: 2021-12-30 16:35:07 >LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+824e8a9b-9eb4-4174-9900-d6eb094d4e9c: 2021-12-30 16:35:16 >Removing bad raw directory
+824e8a9b-9eb4-4174-9900-d6eb094d4e9c: 2021-12-30 16:35:26 >ineuron/training/data/project/mywafer/bad_raw_data_files directory deleted successfully
+824e8a9b-9eb4-4174-9900-d6eb094d4e9c: 2021-12-30 16:35:32 >Removing good raw directory
+824e8a9b-9eb4-4174-9900-d6eb094d4e9c: 2021-12-30 16:35:42 >ineuron/training/data/project/mywafer/good_raw_data_files directory deleted successfully
+824e8a9b-9eb4-4174-9900-d6eb094d4e9c: 2021-12-30 16:35:47 >Good raw and bad raw directory creation begin..
+824e8a9b-9eb4-4174-9900-d6eb094d4e9c: 2021-12-30 16:36:12 >ineuron/training/data/project/mywafer/good_raw_data_files and ineuron/training/data/project/mywafer/bad_raw_data_files directory created successfully
+824e8a9b-9eb4-4174-9900-d6eb094d4e9c: 2021-12-30 16:36:19 >Directory [ineuron/training/data/project/mywafer/training_batch_files/] does not exist
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:43:49 >Archiving of existing model begin
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:44:04 >Source ineuron/training/data/project/mywafer/model directory is not found 
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:44:27 >Start of Validation on files!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:44:36 >LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:44:45 >Removing bad raw directory
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:44:55 >ineuron/training/data/project/mywafer/bad_raw_data_files directory deleted successfully
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:45:01 >Removing good raw directory
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:45:11 >ineuron/training/data/project/mywafer/good_raw_data_files directory deleted successfully
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:45:17 >Good raw and bad raw directory creation begin..
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:45:40 >ineuron/training/data/project/mywafer/good_raw_data_files and ineuron/training/data/project/mywafer/bad_raw_data_files directory created successfully
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:45:57 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer12_20012.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:46:06 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_07012020_000000.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:46:14 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_07012020_223345.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:46:22 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_08012020_120000.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:46:30 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_10012020_131534.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:46:39 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_11012020_151432.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:46:47 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_12012020_111.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:46:56 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_12012020_111213.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:47:04 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_13012020_141000.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:47:12 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_14012020_113045.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:47:21 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_15010_130532.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:47:29 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_15012020_130532.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:47:37 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_18012020_121532.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:47:45 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_19012020_141432.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:47:54 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_20012020_135132.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:48:02 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_21012020_143634.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:48:10 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_22012020_173245.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:48:18 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_23012020_163456.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:48:27 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_24012020_150121.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:48:35 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_25012020_142112.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:48:44 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_fault_detection.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:48:52 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_text_130532.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:49:00 >Invalid File Name!! File moved to Bad Raw Folder :: Waferdefault_15010_130532.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:49:08 >Valid File name!! File moved to GoodRaw Folder :: wafer_07012020_041011.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:49:16 >Valid File name!! File moved to GoodRaw Folder :: wafer_13012020_090817.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:49:24 >Valid File name!! File moved to GoodRaw Folder :: wafer_16012020_051629.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:49:32 >Valid File name!! File moved to GoodRaw Folder :: wafer_16012020_134553.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:49:40 >Valid File name!! File moved to GoodRaw Folder :: wafer_17012020_125434.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:49:48 >Valid File name!! File moved to GoodRaw Folder :: wafer_20012020_090819.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:49:57 >Valid File name!! File moved to GoodRaw Folder :: wafer_20022020_090716.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:50:05 >Valid File name!! File moved to GoodRaw Folder :: wafer_21012020_080913.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:50:13 >Valid File name!! File moved to GoodRaw Folder :: wafer_22022020_041119.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:50:23 >Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_011008.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:50:32 >Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_041211.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:50:45 >Valid File name!! File moved to GoodRaw Folder :: wafer_27012020_080911.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:50:54 >Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_051011.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:51:03 >Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_090817.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:51:11 >Valid File name!! File moved to GoodRaw Folder :: wafer_28042020_031911.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:51:20 >Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_050617.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:51:28 >Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_060756.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:51:36 >Valid File name!! File moved to GoodRaw Folder :: wafer_31012020_090811.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:51:42 >Column Length Validation Started!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:52:03 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:52:14 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:52:36 >Column Length Validation Completed!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:52:42 >Missing Values Validation Started!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:53:00 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_07012020_041011.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:53:21 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_20012020_090819.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:53:44 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_22022020_041119.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:53:54 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_23012020_011008.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:54:16 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_28012020_051011.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:54:46 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_29012020_060756.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:54:56 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_31012020_090811.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:55:02 >Raw Data Validation Complete!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:55:08 >Starting Data Transforamtion!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:55:25 > wafer_13012020_090817.csv: File Transformed successfully!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:55:38 > wafer_16012020_051629.csv: File Transformed successfully!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:55:50 > wafer_20022020_090716.csv: File Transformed successfully!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:56:02 > wafer_21012020_080913.csv: File Transformed successfully!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:56:15 > wafer_23012020_041211.csv: File Transformed successfully!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:56:27 > wafer_27012020_080911.csv: File Transformed successfully!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:56:41 > wafer_28012020_090817.csv: File Transformed successfully!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:56:57 > wafer_28042020_031911.csv: File Transformed successfully!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:57:12 > wafer_29012020_050617.csv: File Transformed successfully!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:57:18 >DataTransformation Completed!!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:57:23 >Creating Training_Database and tables on the basis of given schema!!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:57:29 >Table creation Completed!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:57:35 >Insertion of Data into Table started!!!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:57:41 >Creating database and collection if not exist then create and insert record
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:57:47 >Droping existing collection if present in database training_system_log
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:58:00 >Starting loading of good files in database:training_database and collection: Good_Raw_Data
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:58:08 >9 files found in ineuron/training/data/project/mywafer/good_raw_data_files 
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:58:14 >Insertion of file wafer_13012020_090817.csv started...
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:58:41 >File: wafer_13012020_090817.csv loaded successfully
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:58:47 >Insertion of file wafer_16012020_051629.csv started...
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:59:00 >File: wafer_16012020_051629.csv loaded successfully
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:59:06 >Insertion of file wafer_20022020_090716.csv started...
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:59:18 >File: wafer_20022020_090716.csv loaded successfully
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:59:23 >Insertion of file wafer_21012020_080913.csv started...
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:59:43 >File: wafer_21012020_080913.csv loaded successfully
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 16:59:49 >Insertion of file wafer_23012020_041211.csv started...
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:00:01 >File: wafer_23012020_041211.csv loaded successfully
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:00:07 >Insertion of file wafer_27012020_080911.csv started...
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:00:19 >File: wafer_27012020_080911.csv loaded successfully
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:00:25 >Insertion of file wafer_28012020_090817.csv started...
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:00:47 >File: wafer_28012020_090817.csv loaded successfully
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:00:53 >Insertion of file wafer_28042020_031911.csv started...
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:01:07 >File: wafer_28042020_031911.csv loaded successfully
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:01:13 >Insertion of file wafer_29012020_050617.csv started...
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:01:45 >File: wafer_29012020_050617.csv loaded successfully
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:01:51 >Insertion in Table completed!!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:01:57 >Deleting Good Data Folder!!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:02:03 >Removing good raw directory
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:02:17 >ineuron/training/data/project/mywafer/good_raw_data_files directory deleted successfully
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:02:23 >Good_Data folder deleted!!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:02:29 >Moving bad files to Archive and deleting Bad_Data folder!!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:02:34 >Archiving of bad training file begin.
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:04:55 >Bad files moved to archive
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:05:03 >Bad Raw Data Folder Deleted successfully!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:05:08 >Archiving of bad training file done.
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:05:14 >Bad files moved to archive!! Bad folder Deleted!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:05:20 >Validation Operation completed!!
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:05:25 >Extracting csv file from table
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:05:38 >starting of loading of database:training_database,collection:Good_Raw_Data records into InputFile.csv
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:06:19 >Good_Raw_data has been loaded into pandas dataframe
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:06:38 >InputFile.csv created successfully in directoryineuron/training/data/project/mywafer/training_file_from_db
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:06:48 >Start of Training
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:06:57 >Entered the get_data method of the Data_Getter class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:07:07 >Data Load Successful.Exited the get_data method of the Data_Getter class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:07:12 >Entered the remove_columns method of the Preprocessor class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:07:18 >Column removal Successful.Exited the remove_columns method of the Preprocessor class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:07:24 >Entered the separate_label_feature method of the Preprocessor class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:07:30 >Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:07:35 >Entered the is_null_present method of the Preprocessor class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:07:52 >Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:07:57 >Entered the impute_missing_values method of the Preprocessor class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:08:04 >Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:08:10 >Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:08:16 >Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:08:22 >Entered the remove_columns method of the Preprocessor class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:08:27 >Column removal Successful.Exited the remove_columns method of the Preprocessor class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:08:34 >Entered the elbow_plot method of the KMeansClustering class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:08:59 >The optimum number of clusters is: 3. Exited the elbow_plot method of the KMeansClustering class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:09:04 >Entered the create_clusters method of the KMeansClustering class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:09:13 >Entered the save_model method of the File_Operation class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:09:47 >Model File KMeanssaved. Exited the save_model method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:09:52 >successfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:09:58 >Entered the get_best_model method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:10:03 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:10:36 >XGBoost best params: {'learning_rate': 0.5, 'max_depth': 20, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:10:42 >AUC for XGBoost:0.5
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:10:55 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:11:02 >Naive Bayes best params: {'var_smoothing': 0.5}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:11:07 >AUC for naive bayes score:0.5
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:11:21 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:11:38 >Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:11:44 >AUC for Random Forest0.5
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:11:59 >Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:12:30 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:12:35 >AUC for KNN0.5
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:12:49 >Entered the get_best_params_for_svm method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:12:57 >SVM best params: {'C': 0.1, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:13:02 >AUC for svc0.5
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:13:56 >Entered the save_model method of the File_Operation class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:14:11 >Model File XG_BOOST0saved. Exited the save_model method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:14:16 >Entered the get_best_model method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:14:22 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:14:32 >XGBoost best params: {'learning_rate': 0.5, 'max_depth': 20, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:14:38 >Accuracy for XGBoost:1.0
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:14:44 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:14:50 >Naive Bayes best params: {'var_smoothing': 0.1}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:14:56 >Accuracy for naive bayes score1.0
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:15:01 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:15:14 >Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:15:20 >Accuracy for Random Forest1.0
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:15:27 >Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:15:37 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:15:43 >Accuracy for KNN clf1.0
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:16:23 >Entered the save_model method of the File_Operation class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:16:38 >Model File XG_BOOST1saved. Exited the save_model method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:16:44 >Entered the get_best_model method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:16:52 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:17:07 >XGBoost best params: {'learning_rate': 0.5, 'max_depth': 20, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:17:13 >AUC for XGBoost:0.5
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:17:28 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:17:34 >Naive Bayes best params: {'var_smoothing': 0.5}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:17:41 >AUC for naive bayes score:0.5
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:17:54 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:18:09 >Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:18:14 >AUC for Random Forest0.5
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:18:29 >Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:18:42 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:18:48 >AUC for KNN0.5
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:19:02 >Entered the get_best_params_for_svm method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:19:09 >SVM best params: {'C': 0.1, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:19:15 >AUC for svc0.5
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:20:24 >Entered the save_model method of the File_Operation class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:20:44 >Model File XG_BOOST2saved. Exited the save_model method of the Model_Finder class
+dc7eb88b-2a26-4a4f-a557-2e753eeb4285: 2021-12-30 17:20:50 >Successful End of Training

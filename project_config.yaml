@@ -2,14 +2,14 @@ root_folder: machine-learning-7236723
 
 mongodb:
   is_cloud: 1
-  user_name: Avnish
-  password: OtAAp629
-  url: mongodb+srv://{0}:{1}@cluster0.5fvxl.mongodb.net/<dbname>?retryWrites=true&w=majority
+  user_name: test
+  password: XYZ1234
+  url: mongodb+srv://{0}:{1}@cluster0.ojozb.mongodb.net/<dbname>?retryWrites=true&w=majority
 
 
 cloud_storage:
   azure_blob_storage:
-    connection_str: DefaultEndpointsProtocol=https;AccountName=ineuronstorage327030;AccountKey=EoKopRrOYEPLQl8K2hxyvh2mxR9Z0cLkFkiiGfkAB1FbfOScZdiUFgW7/kr9TBFS0a3uUgfOT/J28w+xv6tbtw==;EndpointSuffix=core.windows.net
+    connection_str: DefaultEndpointsProtocol=https;AccountName=ineuron;AccountKey=CpNyt7S4eXlqDZA8i+OIBIuRCdiYfgmkk1QXhbgjoUPOYtvGBv2U3GtrV+FQPhhJWdVIz+4+y/Yq2rJ8Ijd37g==;EndpointSuffix=core.windows.net
   aws_s3_bucket:
     name: aws_access_key
     Access Key ID: AKIAQLOZZIL6AO6IOTMP
@@ -32,7 +32,7 @@ session:
   secret-key: ec6935d1-0e2c-4998-b7ed-809e8cb0fcda
 
 user_detail:
-  email_id: avnish@ineuron.ai
+  email_id: ianeja265@gmail.com
   role_id: 1
 
 email_config:

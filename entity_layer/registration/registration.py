@@ -20,9 +20,9 @@ class Register:
         try:
             record = self.mongo_db.get_record(self.database_name, self.collection_name_user_allow,
                                               {'email_address': email_address})
-            if record is None:
+            """if record is None:
                 return {'status': False, 'message': "Email address [{0}] is not allow !! please contact admin on email "
-                                                    "id [{1}] ".format(email_address, self.admin_email_id)}
+                                                    "id [{1}] ".format(email_address, self.admin_email_id)}"""
             return {'status': True, 'message': 'Email address can be used for registration.'}
         except Exception as e:
             registration_exception = RegistrationException("Failed email address validation in class [{0}] method [{1}]"
